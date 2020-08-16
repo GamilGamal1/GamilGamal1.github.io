@@ -83,6 +83,9 @@ section{
 	width: 30%;
 	font-weight: bold;
 }
+.left img{
+	border-radius: 50%;
+}
 .right{
 	float: right;
 	width: 70%;
