@@ -83,9 +83,6 @@ section{
 	width: 30%;
 	font-weight: bold;
 }
-.left img{
-	border-radius: 50%;
-}
 .right{
 	float: right;
 	width: 70%;
@@ -136,6 +133,16 @@ section{
 }
 .prog{
 	color: blue;
+	font-weight: bold;
+	text-decoration : underline;
+}
+.prog2{
+	color: green;
+	font-weight: bold;
+	text-decoration : underline;
+}
+.prog3{
+	color: red;
 	font-weight: bold;
 	text-decoration : underline;
 }
